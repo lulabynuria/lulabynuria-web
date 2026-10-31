@@ -1,0 +1,22 @@
+/* Método Lula — generado a partir de tokens.json */
+:root {
+  --brand-coral: #e26577;
+  --brand-burdeos: #57151a;
+  --brand-rosa-palo: #f1bdcb;
+  --brand-gris-perla: #f5f5f5;
+  --blanco: #ffffff;
+  --surface: #f5f5f5;
+  --surface-inverse: #57151a;
+  --ink: #57151a;
+  --ink-inverse: #f1bdcb;
+  --accent: #e26577;
+  --font-wordmark: "Noto Sans", "Open Sans", system-ui, sans-serif;
+  --font-serif: Cardo, Georgia, "Times New Roman", serif;
+  --font-sans: Montserrat, "Helvetica Neue", Arial, sans-serif;
+  --space-1: 8px;
+  --space-2: 16px;
+  --space-3: 32px;
+  --space-4: 64px;
+  --radius-none: 0;
+  --radius-sm: 2px;
+}
