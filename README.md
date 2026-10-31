@@ -11,7 +11,7 @@ Web estática mínima de **Lula by Núria** (@lulabynuria) para el lanzamiento d
 ## Qué cambiar
 - **Fecha de lanzamiento:** `LAUNCH_DATE` al inicio de `js/countdown.js`. Formato ISO con offset de Madrid (`+01:00` invierno, `+02:00` verano). Ahora mismo: `2027-01-10T00:00:00+01:00` (provisional, falta confirmar la hora). El texto final está en `LAUNCHED_TEXT`.
 - **Enlace del botón:** `NEWSLETTER_URL` en `js/config.js` (hay un TODO para la landing de Kit con origen web).
-- **Marcadores de privacidad:** busca en `privacidad.html` `[NOMBRE Y APELLIDOS]`, `[NIF]`, `[DIRECCIÓN]` y `[FECHA]` y sustitúyelos.
+- **Marcadores de privacidad:** busca en `privacidad.html` `[NIF]` y `[FECHA]` (la dirección se ha quitado de momento; si se añade, va en el bloque de responsable) y sustitúyelos.
 
 ## Despliegue
 GitHub Pages desde `main` / raíz. Cada push a `main` publica. El dominio propio se define en `CNAME`; requiere DNS apuntando a GitHub Pages y, cuando haya certificado, marcar *Enforce HTTPS* en Settings → Pages.
