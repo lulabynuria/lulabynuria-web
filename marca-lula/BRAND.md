@@ -49,7 +49,7 @@ Normas:
 
 Las piezas de la marca usan **grandes campos de un solo color**: una diapositiva entera en burdeos, otra en coral, otra en gris perla. No se mezclan más de dos colores de fondo en una misma vista.
 
-Combinaciones de texto (contraste mínimo legible 4,5:1 para texto normal, 3:1 para títulos de 24px o más):
+Combinaciones de texto (contraste mínimo legible 4,5:1 para texto normal, 3:1 para texto grande, que es de 24px o más, o de 19px o más en negrita):
 
 | Texto sobre fondo | Contraste | Uso |
 | --- | --- | --- |
@@ -58,8 +58,8 @@ Combinaciones de texto (contraste mínimo legible 4,5:1 para texto normal, 3:1 p
 | Rosa palo sobre burdeos | 8,4:1 | Cualquier texto |
 | Burdeos sobre rosa palo | 8,4:1 | Cualquier texto |
 | Coral sobre burdeos | 4,2:1 | Solo títulos y LULA grande |
-| Blanco sobre coral | 3,3:1 | Solo títulos de 24px o más |
-| Coral sobre gris perla | 3,0:1 | Solo títulos de 24px o más |
+| Blanco sobre coral | 3,3:1 | Solo texto grande: 24px o más, o 19px o más en negrita |
+| Coral sobre gris perla | 3,0:1 | Solo texto grande: 24px o más, o 19px o más en negrita |
 
 **Ojo:** en el branding, la diapositiva coral lleva un párrafo largo en blanco. Funciona en una pantalla grande, pero en móvil, web o email ese texto queda por debajo del mínimo legible. Para párrafos sobre coral, usa burdeos o pasa el párrafo a un fondo claro.
 
@@ -84,6 +84,6 @@ En la web, las fuentes se alojan en el propio servidor (no se cargan desde Googl
 
 ## Aplicaciones
 
-- **Web y plataforma del curso:** fondo gris perla, texto burdeos, botones coral con texto blanco en negrita a 16px o más.
+- **Web y plataforma del curso:** fondo gris perla, texto burdeos, botones coral con texto blanco en negrita a 19px o más (a menos tamaño el contraste de 3,3:1 no basta).
 - **Emails (Kit):** fondo blanco o gris perla, cabecera con el logotipo, texto burdeos en Montserrat con Arial como respaldo (muchos clientes de correo no cargan fuentes web).
 - **Stories y reels:** campos de color a sangre, LULA o la frase clave en grande, máximo dos colores por pieza.
